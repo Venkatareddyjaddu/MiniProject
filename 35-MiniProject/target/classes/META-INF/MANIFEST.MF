@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: 35-MiniProject
+Implementation-Version: 1.0.1-release
+Created-By: Maven Integration for Eclipse
+
